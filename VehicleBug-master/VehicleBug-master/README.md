@@ -1,2 +1,2 @@
-# SafalFasal
-AI based Crop Pest Detector
+# VehicleBug
+AI based Car damage Detector
