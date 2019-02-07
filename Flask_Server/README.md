@@ -12,7 +12,7 @@ cat requirements.txt | xargs -n 1 pip install
 ```
 
 #### Start The Flask Server
-'''
+```
 export FLASK_APP = damage.py\
 flask run --host=0.0.0.0
-'''
+```
