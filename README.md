@@ -4,10 +4,11 @@
 # VehicleBug
 A deep learning based car damage classifier and detector.
 
-
+## About:
+A flask server running on google cloud vm using pytorch, numpy and mysql_db to serve image classification predictions.
 
 ## How To Run
-Refer to Readme.md file in "VehicleBug/VehicleBug-master/VehicleBug-master/"
+Refer to Readme.md file in VehicleBug/VehicleBug-master/VehicleBug-master/
 
 
 
