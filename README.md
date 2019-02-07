@@ -8,7 +8,7 @@ A deep learning based car damage classifier and detector.
 A flask server running on google cloud vm using pytorch, numpy and mysql_db to serve image classification predictions. Can be easily modified to run image detection
 
 ## How To Run
-Refer to Readme.md file in VehicleBug/VehicleBug-master/VehicleBug-master/
+Refer to Readme.md file in "Flask Server"
 
 
 
