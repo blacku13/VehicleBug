@@ -6,7 +6,7 @@ A deep learning based car damage classifier and detector.
 
 
 
-# How To Run
+## How To Run
 Refer to Readme.md file in "VehicleBug/VehicleBug-master/VehicleBug-master/"
 
 
