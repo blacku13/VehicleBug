@@ -33,11 +33,6 @@ For more information refer to https://cloud.google.com/compute/docs/quickstart-l
 ```
 pip install mysql-server
 ```
-#### specify rows and tables
-```
-
-
-```
 
 #### Upload Req.txt to your Gcloud instance
 For more information refer to https://cloud.google.com/compute/docs/instances/transfer-files
